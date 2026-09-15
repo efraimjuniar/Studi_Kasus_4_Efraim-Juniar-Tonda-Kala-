@@ -8,19 +8,19 @@ Program ini dibuat untuk membantu sebuah toko mengelola data produk menggunakan 
 
 Penjelasan Kode
 
-Dictionary produk — menyimpan data awal produk (nama, harga, stok).
+Dictionary produk - menyimpan data awal produk (nama, harga, stok).
 
-while True — perulangan agar menu terus muncul sampai pengguna memilih keluar.
+while True - perulangan agar menu terus muncul sampai pengguna memilih keluar.
 
-Menu 1 (Tampilkan Data) — mencetak seluruh isi dictionary produk saat ini.
+Menu 1 (Tampilkan Data) - mencetak seluruh isi dictionary produk saat ini.
 
-Menu 2 (Tambah Kategori) — menambahkan key baru kategori ke dictionary.
+Menu 2 (Tambah Kategori) - menambahkan key baru kategori ke dictionary.
 
-Menu 3 (Ubah Harga) — mengubah value harga memakai .update().
+Menu 3 (Ubah Harga) - mengubah value harga memakai .update().
 
-Menu 4 (Hapus Kategori) — menghapus key kategori memakai .pop().
+Menu 4 (Hapus Kategori) - menghapus key kategori memakai .pop().
 
-Menu 5 (Keluar) — menghentikan perulangan dengan break.
+Menu 5 (Keluar) - menghentikan perulangan dengan break.
 
 Setiap operasi tambah/ubah/hapus langsung menampilkan ulang data produk, sebagai bukti perubahan berhasil.
 
